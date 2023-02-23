@@ -2,7 +2,7 @@
 
 The Color Palette Generator Web App is a feature-rich project built with React.js, designed to provide users with an intuitive and user-friendly interface that works seamlessly on any device. This web app offers a range of standout features that make it an excellent tool for creating custom color palettes.
 
-Available at [https://t-hein-color-palette-generator.netlify.app/]
+Available at (t-hein-color-palette-generator.netlify.app)[https://t-hein-color-palette-generator.netlify.app/]
 
 ## Drag-and-Drop Functionality
 
